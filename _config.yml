@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Writing down my dreams while I slowly slip into psychosis.
 twitter_username: AravindRajago18
 github_username:  NovemberDeath
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 search: true
 
